@@ -6,10 +6,6 @@ Name: olanrewa olatunji
 Current job: fashion design
 Brief Desc: I'm a fashion designer based in Lagos, Nigeria, interested in ui/ux
 
-Name: David Nwogwugwu
-Current job: Digital Marketing Executive
-Brief Desc: An easy-going, cool-headed individual interested in web dev
-
 Name: Oluwatomisin Fadoju
 Current Job: Entrepreneur
 Brief Desc: Resides in Lagos, i'm passionate about Web development and Data analysis 
@@ -26,3 +22,8 @@ Name: Fadoju Oluwatomisin
 Current Job: Entrepreneur
 Brief Desc: An amazing mom of one, loves everything tech. 
 Location:Nigeria, Ogun state
+
+Name: David Nwogwugwu
+Current job: Digital Marketing Executive
+Brief Desc: An easy-going, cool-headed individual interested in web dev
+Hobbies: photography, reading, playing video games
